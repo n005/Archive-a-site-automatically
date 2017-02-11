@@ -1,7 +1,7 @@
 # Archive-a-site-automatically
 Archive a site automatically with web.archive.org/save/ and lynx and wget .  
-
 See in French : http://epcminecraft.fr.gd/Archiver-un-site-automatiquement-.-.htm
+
 ---------
 
 1. Download MY Script: see end of page.  
