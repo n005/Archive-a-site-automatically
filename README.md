@@ -4,7 +4,7 @@ See in French : http://epcminecraft.fr.gd/Archiver-un-site-automatiquement-.-.ht
 
 ---------
 
-1. Download MY Script: see end of page.  
+1.Download MY Script: see releases.  
 2.extract the file, right click on "archivage.bat" edit.  
 3.In the 3rd line change the site "epcminecraft.fr.gd" by the site of your choice.  
 4.Close notepad and run "archivage.bat" and wait ...  
